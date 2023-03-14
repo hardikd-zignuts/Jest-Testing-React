@@ -7,7 +7,7 @@ test('When a & b is number', () => {
 })
 
 
-test('null', () => {
+test('null test case', () => {
     const n = null;
     expect(n).toBeNull();
     expect(n).toBeDefined();
